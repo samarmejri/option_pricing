@@ -1,0 +1,27 @@
+werkzeug - WARNING -  * Debugger is active!
+werkzeug - INFO -  * Debugger PIN: 217-955-136
+root - INFO - paramter= EURUSD=X call [100.0] 2025-06-06 0.05 0.03 
+root - INFO - current_exchange_rate 1.088020920753479
+root - INFO - returns Date
+2023-06-07 00:00:00+01:00   -0.001284
+2023-06-08 00:00:00+01:00    0.000878
+2023-06-09 00:00:00+01:00    0.007030
+2023-06-12 00:00:00+01:00   -0.002946
+2023-06-13 00:00:00+01:00    0.001119
+                               ...   
+2024-05-31 00:00:00+01:00    0.003110
+2024-06-03 00:00:00+01:00    0.001628
+2024-06-04 00:00:00+01:00    0.005006
+2024-06-05 00:00:00+01:00   -0.002340
+2024-06-06 00:00:00+01:00   -0.000152
+Name: Close, Length: 262, dtype: float64
+root - INFO - volatility 0.062058546574274315
+root - INFO - expiration_date 2025-06-06 00:00:00
+root - INFO - current_date 2024-06-06 11:43:28.960825
+root - INFO - time_to_maturity  0.9972602739726028
+root - INFO - paramter= 1.088020920753479 100.0 0.9972602739726028 0.05 0.03 0.062058546574274315 call 
+root - INFO - d1 d2= -72.59467271301511 -72.65664618957466  
+root - INFO -  call price=0.0  
+root - INFO - price 0.0 0.0 0.0 -0.0 0.0 0.0 -0.0 
+root - INFO - results {100.0: {'option_price': 0.0, 'delta': 0.0, 'gamma': 0.0, 'theta': -0.0, 'vega': 0.0, 'rho_d': 0.0, 'rho_f': -0.0}}  
+werkzeug - INFO - 127.0.0.1 - - [06/Jun/2024 11:43:28] "POST /calculate HTTP/1.1" 200 -
